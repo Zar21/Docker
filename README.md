@@ -75,7 +75,7 @@ Finalmente vamos a comprobar que la información se esta guardando correctamente
 El de wordpress de puede apagar con ctrl + c
 El de MySQl hay que apagarlo con el comando:
 ```bash 
-docker stop mysq_practice
+docker stop mysql_practice
 ```
 Ahora limpiamos el ordenador de los containers antiguos con:
 
